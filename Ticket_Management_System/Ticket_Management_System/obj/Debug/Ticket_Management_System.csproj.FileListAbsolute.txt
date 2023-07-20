@@ -1,0 +1,15 @@
+C:\Users\mfaiq\Downloads\C# Project\Ticket_Management_System\Ticket_Management_System\bin\Debug\Ticket_Management_System.exe.config
+C:\Users\mfaiq\Downloads\C# Project\Ticket_Management_System\Ticket_Management_System\bin\Debug\Ticket_Management_System.exe
+C:\Users\mfaiq\Downloads\C# Project\Ticket_Management_System\Ticket_Management_System\bin\Debug\Ticket_Management_System.pdb
+C:\Users\mfaiq\Downloads\C# Project\Ticket_Management_System\Ticket_Management_System\obj\Debug\Ticket_Management_System.csproj.AssemblyReference.cache
+C:\Users\mfaiq\Downloads\C# Project\Ticket_Management_System\Ticket_Management_System\obj\Debug\Ticket_Management_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\mfaiq\Downloads\C# Project\Ticket_Management_System\Ticket_Management_System\obj\Debug\Ticket_Management_System.OnlineReservation.resources
+C:\Users\mfaiq\Downloads\C# Project\Ticket_Management_System\Ticket_Management_System\obj\Debug\Ticket_Management_System.Properties.Resources.resources
+C:\Users\mfaiq\Downloads\C# Project\Ticket_Management_System\Ticket_Management_System\obj\Debug\Ticket_Management_System.TicketManagementSystem.resources
+C:\Users\mfaiq\Downloads\C# Project\Ticket_Management_System\Ticket_Management_System\obj\Debug\Ticket_Management_System.csproj.GenerateResource.cache
+C:\Users\mfaiq\Downloads\C# Project\Ticket_Management_System\Ticket_Management_System\obj\Debug\Ticket_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\mfaiq\Downloads\C# Project\Ticket_Management_System\Ticket_Management_System\obj\Debug\Ticket_Management_System.exe
+C:\Users\mfaiq\Downloads\C# Project\Ticket_Management_System\Ticket_Management_System\obj\Debug\Ticket_Management_System.pdb
+C:\Users\mfaiq\Downloads\C# Project\Ticket_Management_System\Ticket_Management_System\obj\Debug\Ticket_Management_System.Reservationform.resources
+C:\Users\mfaiq\Downloads\C# Project\Ticket_Management_System\Ticket_Management_System\bin\Debug\Reservationdata.mdf
+C:\Users\mfaiq\Downloads\C# Project\Ticket_Management_System\Ticket_Management_System\bin\Debug\Reservationdata_log.ldf
