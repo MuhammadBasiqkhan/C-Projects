@@ -1,0 +1,42 @@
+D:\Student Management\obj\Debug\Student Management.csproj.AssemblyReference.cache
+D:\Student Management\obj\Debug\Student Management.csproj.SuggestedBindingRedirects.cache
+D:\Student Management\obj\Debug\Student_Management.Form1.resources
+D:\Student Management\obj\Debug\Student_Management.Properties.Resources.resources
+D:\Student Management\obj\Debug\Student Management.csproj.GenerateResource.cache
+D:\Student Management\obj\Debug\Student Management.csproj.CoreCompileInputs.cache
+D:\Student Management\bin\Debug\Student.mdf
+D:\Student Management\bin\Debug\Student_log.ldf
+D:\Student Management\bin\Debug\Student Management.exe.config
+D:\Student Management\bin\Debug\Student Management.exe
+D:\Student Management\bin\Debug\Student Management.pdb
+D:\Student Management\obj\Debug\Student Management.exe
+D:\Student Management\obj\Debug\Student Management.pdb
+D:\Student Management\obj\Debug\Student_Management.Student.resources
+C:\Users\mfaiq\Downloads\Student Management\Student Management\bin\Debug\Student.mdf
+C:\Users\mfaiq\Downloads\Student Management\Student Management\bin\Debug\Student_log.ldf
+C:\Users\mfaiq\Downloads\Student Management\Student Management\bin\Debug\Student Management.exe.config
+C:\Users\mfaiq\Downloads\Student Management\Student Management\bin\Debug\Student Management.exe
+C:\Users\mfaiq\Downloads\Student Management\Student Management\bin\Debug\Student Management.pdb
+C:\Users\mfaiq\Downloads\Student Management\Student Management\obj\Debug\Student Management.csproj.AssemblyReference.cache
+C:\Users\mfaiq\Downloads\Student Management\Student Management\obj\Debug\Student Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\mfaiq\Downloads\Student Management\Student Management\obj\Debug\Student_Management.Form1.resources
+C:\Users\mfaiq\Downloads\Student Management\Student Management\obj\Debug\Student_Management.Properties.Resources.resources
+C:\Users\mfaiq\Downloads\Student Management\Student Management\obj\Debug\Student_Management.Student.resources
+C:\Users\mfaiq\Downloads\Student Management\Student Management\obj\Debug\Student Management.csproj.GenerateResource.cache
+C:\Users\mfaiq\Downloads\Student Management\Student Management\obj\Debug\Student Management.csproj.CoreCompileInputs.cache
+C:\Users\mfaiq\Downloads\Student Management\Student Management\obj\Debug\Student Management.exe
+C:\Users\mfaiq\Downloads\Student Management\Student Management\obj\Debug\Student Management.pdb
+C:\Users\mfaiq\Downloads\C# Project\Student Management\Student Management\Student Management\Student Management\bin\Debug\Student.mdf
+C:\Users\mfaiq\Downloads\C# Project\Student Management\Student Management\Student Management\Student Management\bin\Debug\Student_log.ldf
+C:\Users\mfaiq\Downloads\C# Project\Student Management\Student Management\Student Management\Student Management\obj\Debug\Student Management.csproj.AssemblyReference.cache
+C:\Users\mfaiq\Downloads\C# Project\Student Management\Student Management\Student Management\Student Management\obj\Debug\Student Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\mfaiq\Downloads\C# Project\Student Management\Student Management\Student Management\Student Management\obj\Debug\Student_Management.Properties.Resources.resources
+C:\Users\mfaiq\Downloads\C# Project\Student Management\Student Management\Student Management\Student Management\obj\Debug\Student_Management.Student.resources
+C:\Users\mfaiq\Downloads\C# Project\Student Management\Student Management\Student Management\Student Management\obj\Debug\Student Management.csproj.GenerateResource.cache
+C:\Users\mfaiq\Downloads\C# Project\Student Management\Student Management\Student Management\Student Management\obj\Debug\Student Management.csproj.CoreCompileInputs.cache
+C:\Users\mfaiq\Downloads\C# Project\Student Management\Student Management\Student Management\Student Management\obj\Debug\Student Management.exe
+C:\Users\mfaiq\Downloads\C# Project\Student Management\Student Management\Student Management\Student Management\obj\Debug\Student Management.pdb
+C:\Users\mfaiq\Downloads\C# Project\Student Management\Student Management\Student Management\Student Management\bin\Debug\Student Management.exe.config
+C:\Users\mfaiq\Downloads\C# Project\Student Management\Student Management\Student Management\Student Management\bin\Debug\Student Management.exe
+C:\Users\mfaiq\Downloads\C# Project\Student Management\Student Management\Student Management\Student Management\bin\Debug\Student Management.pdb
+C:\Users\mfaiq\Downloads\C# Project\Student Management\Student Management\Student Management\Student Management\obj\Debug\Student_Management.loginform.resources
